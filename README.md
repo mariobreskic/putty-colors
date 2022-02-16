@@ -1,5 +1,5 @@
 # PuTTY-colors
-A place to keep the colors I use for putty, so that others can use them as well
+A place to keep the Ubuntu terminal colors I use for putty, so that others can use them as well
 ## Where these colors came from
 I put together a working a color scheme for PuTTY using https://betterprogramming.pub/make-bash-on-ubuntu-on-windows-10-look-like-the-ubuntu-terminal-f7566008c5c2 as a starting point and later comparing it with a local ubuntu terminal, using a graphic design software's eye-dropper tool to look at the values.
 ## The RGB values for my PuTTY colors
